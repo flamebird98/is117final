@@ -1,11 +1,3 @@
-<!--right-side-panel
-Example Navigation:
-
-* [Home](index.html)
-  * [Installation](index.html#Installation)
-  * [Pre-defined section names](index.html#pre-defined-section-names-)
-* [Layout](layout.html)
--->
 # Welcome to Mary-Ann Irabor's Final Project
 
 You can use the [editor on GitHub](https://github.com/flamebird98/is117final/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
